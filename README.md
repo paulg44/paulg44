@@ -1,7 +1,11 @@
 <div align="center">
-  
-![](https://github.com/paulg44/paulg44/blob/main/Paul%20Garton.png)
+
+![Paul Garton (1)](https://github.com/paulg44/paulg44/assets/100803588/854ddff5-5d02-438c-b45e-ac8c279be97b)
+
+
+
   </div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; 
