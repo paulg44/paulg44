@@ -22,3 +22,9 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulg44&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
+
+<div align="center">
+  <p>Currently Learning:</p> 
+    <p>- Expanding on React, Typescript and Testing(TTD)</p>
+    <p>- C++ (tentatively) through Arduino</p>                                                        
+</div>
