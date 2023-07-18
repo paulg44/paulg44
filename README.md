@@ -25,6 +25,7 @@
 
 <div align="center">
   <p>Currently Learning:</p> 
-    <p>- Expanding on React, Typescript and Testing(TTD)</p>
+    <p>- Expanding on React & Typescript</p>
+    <p>- Testing, E2E with Cypress, Jest for unit testing</p>
     <p>- C++ (tentatively) through Arduino</p>                                                        
 </div>
