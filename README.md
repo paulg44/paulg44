@@ -27,5 +27,6 @@
   <p>Currently Learning:</p> 
     <p>- Expanding on React & Typescript</p>
     <p>- Testing, E2E with Cypress, Jest for unit testing</p>
+    <p>- Ruby on Rails 7 - check out Running Log</p>
     <p>- C++ (tentatively) through Arduino</p>                                                        
 </div>
