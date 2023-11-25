@@ -25,6 +25,7 @@
 
 <div align="center">
   <p>Currently Learning:</p> 
+  <p>- Three.js, getting my creative brain flowing!</p>
     <p>- Expanding on React & Typescript</p>
     <p>- Testing, E2E with Cypress, Jest for unit testing</p>
     <p>- Ruby on Rails 7 - check out Running Log</p>
