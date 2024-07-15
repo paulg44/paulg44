@@ -8,7 +8,12 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -23,11 +28,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulg44&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
-<div align="center">
-  <p>Currently Learning:</p> 
-  <p>- Three.js, getting my creative brain flowing!</p>
-    <p>- Expanding on React & Typescript</p>
-    <p>- Testing, E2E with Cypress, Jest for unit testing</p>
-    <p>- Ruby on Rails 7 - check out Running Log</p>
-    <p>- C++ (tentatively) through Arduino</p>                                                        
+<div>
+  <h2>Tech Stack and Interests 🚀</h2> 
+  <p>React, TypScript & React Testing Library ⚛️</p>
+    <p>JavaScript, HTML & CSS 🎨</p>
+    <p>Node.js & Express 💻</p>
+    <p>Currently learning C# working towards the C# Foundational Certification 🎓</p>
+    <p>I hace an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
 </div>
