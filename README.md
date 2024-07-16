@@ -1,10 +1,11 @@
 <div align="center">
 
-![Paul Garton (1)](https://github.com/paulg44/paulg44/assets/100803588/854ddff5-5d02-438c-b45e-ac8c279be97b)
 
+![Paul Garton](https://github.com/user-attachments/assets/2cbf806b-b9b4-4b8b-8d0a-90deccbd53aa)
 
 
   </div>
+
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -34,5 +35,5 @@
     <p>JavaScript, HTML & CSS 🎨</p>
     <p>Node.js & Express 💻</p>
     <p>Currently learning C# working towards the C# Foundational Certification 🎓</p>
-    <p>I hace an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
+    <p>I have an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
 </div>
