@@ -35,6 +35,6 @@
   <p>React, TypScript & React Testing Library ⚛️</p>
     <p>JavaScript, HTML & CSS 🎨</p>
     <p>Node.js & Express 💻</p>
-    <p>Currently learning C# working towards the C# Foundational Certification 🎓</p>
+    <p>Currently learning more about Firebase and Stripe 🎓</p>
     <p>I have an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
 </div>
