@@ -35,6 +35,7 @@
   <p>React, TypScript & React Testing Library ⚛️</p>
     <p>JavaScript, HTML & CSS 🎨</p>
     <p>Node.js & Express 💻</p>
-    <p>Currently learning more about Firebase and Stripe 🎓</p>
+    <p>Firebase & Stripe 💰</p>
+    <p>Integrating AI agents such as chatGPT and Gemini</p>
     <p>I have an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
 </div>
