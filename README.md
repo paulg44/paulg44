@@ -32,10 +32,8 @@
 
 <div>
   <h2>Tech Stack and Interests 🚀</h2> 
-  <p>React, TypScript & React Testing Library ⚛️</p>
+  <p>React & TypScript ⚛️</p>
     <p>JavaScript, HTML & CSS 🎨</p>
     <p>Node.js & Express 💻</p>
-    <p>Firebase & Stripe 💰</p>
-    <p>Integrating AI agents such as chatGPT and Gemini</p>
-    <p>I have an interest in single board computers and robotics, mainly using arduino boards 🤖</p>                                                        
+    <p>Firebase & Stripe 💰</p>                                                      
 </div>
